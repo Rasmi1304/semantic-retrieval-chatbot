@@ -1,0 +1,5 @@
+The hackathon will be conducted on March 20.
+
+Teams can have up to 4 members.
+
+AI model training domain includes Retrieval Augmented Generation systems.
